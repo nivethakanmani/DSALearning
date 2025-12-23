@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class FirstProblem {
     public static void main(String[] args){
 
-        Scanner scan=new Scanner(System.in);
+        Scanner scan=new Scanner(System.in); 
 
         int num= scan.nextInt();
         scan.nextLine(); // to consume the newline character after the integer input
@@ -13,8 +13,6 @@ public class FirstProblem {
         System.out .println(ch);
         System.out .println(num);
         System.out .println(str);
-
-
 
     }
 

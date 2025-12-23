@@ -1,0 +1,18 @@
+//Oops-->Object Oriented Programming language 
+Let assume that human are able to wake up, eat, sleep, walk etc
+let Dog have four legs dog is barking ,eating etc
+class have properties and methods 
+//properties-->attributes of class
+//methods-->functions inside the class
+car --> color,model,speed,start(),stop()
+object means instance of class instance of class means real world entity in another way we can say object is the example of class
+//example
+//class means tempalte 
+  //properties-->attribte and methiods 
+
+  String color   
+  instance means nothing but copy because for human class we creating instance of object 
+  //object means instance of class
+  class -->blueprint or template for your object 
+  object -->instance of class means copy
+  
