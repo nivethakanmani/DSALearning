@@ -1,17 +1,20 @@
 public class Recursion {
     public static void main(String[]args){
-        function(5);
+        int a=0;
+       function(0);
+
+        
+
 
     }
 
-   static void function(int n){
-        if(n==0){
-            return;
+   static void function(int a){
+        if(a==3){
+            return ;
         }
-        else{
-           System.out.println(n);
-           function(n-1);
-        }
+       System.out.println(a);
+       a++;
+       function(a);
     }
 
 }
